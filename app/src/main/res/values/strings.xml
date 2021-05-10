@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Carpool</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="shouyi">首义校区</string>
+    <string name="nanhu">南湖校区</string>
+    <string name="hankou">汉口站</string>
+    <string name="wuchang">武昌站</string>
+    <string name="wuhan">武汉站</string>
+    <string name="wuhandong">武汉东站</string>
+    <string name="tianhe">天河机场</string>
+    <string name="guanggu">光谷广场</string>
+</resources>
